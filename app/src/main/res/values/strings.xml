@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyVVM</string>
+    <string name="jump_to_activity">Jump to Activity</string>
+    <string name="add_your_item">Add your item</string>
+</resources>
