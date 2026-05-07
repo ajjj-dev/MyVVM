@@ -21,23 +21,6 @@ Coroutines
 RecyclerView / Jetpack Compose (update based on your project)
 Material Design
 
-Project Structure
-com.example.myvvm
-│
-├── data
-│   ├── local
-│   ├── repository
-│
-├── domain
-│   ├── model
-│   ├── usecase
-│
-├── presentation
-│   ├── ui
-│   ├── viewmodel
-│
-└── utils
-
 Purpose of the Project
 
 This project was created for:
