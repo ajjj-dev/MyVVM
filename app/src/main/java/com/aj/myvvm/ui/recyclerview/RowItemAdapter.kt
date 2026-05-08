@@ -7,9 +7,7 @@ import com.aj.myvvm.databinding.RowItemBinding
 import com.aj.myvvm.ui.recyclerview.RowItemAdapter.*
 
 class RowItemAdapter : RecyclerView.Adapter<ItemViewHolder>() {
-
     private var itemsList = listOf<Items>()
-
     fun submitList(items: List<Items>) {
         itemsList = items
         notifyDataSetChanged()
